@@ -1,0 +1,30 @@
+body {
+    margin: 300px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffe6e6;
+    /* background: url("NgocAnh.jpg") no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+h1 {
+    color: #ff4d4d;
+}
+.buttons {
+    margin-top: 20px;
+}
+.yes-button, .no-button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
+.yes-button {
+    background-color: #ff4d4d;
+    color: white;
+}
+.no-button {
+    background-color: #ddd;
+    color: Black;
+}
