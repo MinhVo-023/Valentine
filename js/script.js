@@ -1,6 +1,6 @@
 let messageIndex = 0;
 const messages = ["Are u sure?", "Thui mòooo?", "Đừng bấm không nữa màaa?"
-                ,"Ua bbi oiii!", "Dunt make me sad bbi...", "Yeu emm!", "Chjt chjtt"
+                ,"Ua bbi oiii!", "Dunt make me sad bbi...", "Yeu emm!"
                 ,"Khong bam co la khong xong voi anh dau!", "Moah~!", "Yeu emm!", "Yeueuu", "Ngoan anh thương"];
 function handleNoClick() {
     const noButton = document.querySelector(".no-button");
